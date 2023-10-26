@@ -1,0 +1,135 @@
+body {
+  background-color: white;
+  text-align: center;
+  margin: 0;
+  display: inline;
+  font-family: "Merriweather Sans", sans-serif;
+}
+h1 {
+  width: 32%;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+h2 {
+  line-height: 2;
+  width: 25%;
+  margin: 0 auto;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+h3 {
+  color: #11999e;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.footer-link {
+  color: #11999e;
+}
+span {
+  text-decoration: underline;
+}
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  margin: 0;
+  background-color: #eaf6f6;
+}
+.top-cloud {
+  position: absolute;
+  top: 20px;
+  right: 300px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+}
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 6%;
+  margin: 100px auto;
+}
+.program-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.digital-img {
+  float: right;
+  width: 25%;
+  margin-right: 30px;
+}
+.heading-2 {
+  font-weight: normal;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+p {
+  line-height: 2;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.contact-me {
+  width: 100%;
+  margin: 100px auto;
+  line-height: 2;
+}
+.contact-para {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+.btn {
+  background: #11999e;
+  border-radius: 10px;
+  height: 14px;
+  line-height: 5;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  width: 200px;
+  font-size: 20px;
+  padding: 10px;
+  border: solid 1px;
+  text-decoration: none;
+  text-align: center;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+}
+
+.btn:hover {
+  background: #66bfbf;
+  border-radius: 10px;
+  text-decoration: none;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 2rem;
+  line-height: 1;
+}
+a:hover {
+  color: #eaf6f6;
+}
+.footer-link {
+  padding: 2rem;
+  text-decoration: none;
+  color: #11999e;
+}
+.bottom-container p {
+  margin-top: 5rem;
+  color: #eaf6f6;
+}
